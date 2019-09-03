@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_league_badge" type="id"/>
+    <item name="text_league_name" type="id"/>
+    <item name="image_team_badge" type="id"/>
+    <item name="text_team_name" type="id"/>
+    <item name="text_team_description" type="id"/>
+    <item name="text_event_name" type="id"/>
+    <item name="text_event_date" type="id"/>
+    <item name="text_event_time" type="id"/>
+    <item name="text_event_home_team" type="id"/>
+    <item name="text_event_home_score" type="id"/>
+    <item name="text_event_away_team" type="id"/>
+    <item name="text_event_away_score" type="id"/>
+    <item name="text_table_team_name" type="id"/>
+    <item name="text_table_played" type="id"/>
+    <item name="text_table_win" type="id"/>
+    <item name="text_table_draw" type="id"/>
+    <item name="text_table_loss" type="id"/>
+    <item name="text_table_total" type="id"/>
+    <item name="image_player_cutout" type="id"/>
+    <item name="text_player_name" type="id"/>
+    <item name="text_player_description" type="id"/>
+    <item name="bottom_navigation" type="id"/>
+    <item name="list_search_match" type="id"/>
+    <item name="list_search_team" type="id"/>
+    <item name="main_container" type="id"/>
+</resources>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="title_bar_league">League</string>
+    <string name="title_bar_league_detail">League Detail</string>
+    <string name="title_bar_team_detail">Team Detail</string>
+    <string name="title_bar_event_detail">Event Detail</string>
+    <string name="title_bar_favorite">Favorite</string>
+    <string name="title_bar_about">About Apps</string>
+
+    <string name="title_nav_league">League</string>
+    <string name="title_nav_favorite">Favorite</string>
+    <string name="title_nav_about">About</string>
+
+    <string name="title_menu_favorite">Favorite</string>
+    <string name="title_menu_search">Search</string>
+
+    <string name="double_back_to_exit">Tekan sekali lagi untuk keluar !</string>
+    <string name="text_coma">,</string>
+    <string name="image_league_badge_content_desc">Image League</string>
+    <string name="image_team_badge_content_desc">Image Team</string>
+
+    <string name="text_vs">VS</string>
+    <string name="text_goals">Goals</string>
+    <string name="text_shots">Shots</string>
+    <string name="text_red_cards">Red Cards</string>
+    <string name="text_yellow_cards">Yellow Cards</string>
+    <string name="text_lineups">Lineups</string>
+    <string name="text_goal_keeper">Goal Keeper</string>
+    <string name="text_defense">Defense</string>
+    <string name="text_midfield">Midfield</string>
+    <string name="text_forward">Forward</string>
+    <string name="text_subtitutes">Subtitutes</string>
+    <string name="text_match_not_found">There is no match data</string>
+    <string name="text_team_not_found">There is no team data</string>
+
+    <string name="text_table_team">Team</string>
+    <string name="text_table_played">Played</string>
+    <string name="text_table_win">Win</string>
+    <string name="text_table_draw">Draw</string>
+    <string name="text_table_loss">Loss</string>
+    <string name="text_table_total">Total</string>
+
+    <string name="text_player_name">Name :</string>
+    <string name="text_player_birth_location">Birth Location :</string>
+    <string name="text_player_born">Born :</string>
+    <string name="text_player_height">Height :</string>
+    <string name="text_player_weight">Weight :</string>
+    <string name="text_player_gender">Gender :</string>
+    <string name="text_player_nationality">Nationality :</string>
+    <string name="text_player_team">Team :</string>
+    <string name="text_player_team_national">Team National :</string>
+    <string name="text_player_side">Side :</string>
+    <string name="text_player_position">Position :</string>
+    <string name="text_player_number">Number :</string>
+    <string name="text_player_date_signed">Date Signed :</string>
+    <string name="text_player_signing">Signing :</string>
+    <string name="text_player_kit">Kit :</string>
+    <string name="text_player_wage">Salary :</string>
+    <string name="image_player_fanart_content_desc">Image Player Fanart</string>
+
+    <string name="text_aplication_name">Football Club Apps</string>
+    <string name="text_about_author">Driyanto Saputro</string>
+    <string name="text_about_copyright">©2019</string>
+
+    <string-array name="array_league_id">
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4335</item>
+        <item>4346</item>
+        <item>4344</item>
+        <item>4356</item>
+        <item>4330</item>
+        <item>4396</item>
+    </string-array>
+
+    <string-array name="array_league_name">
+        <item>English Premier League</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Spanish La Liga</item>
+        <item>American Mayor League</item>
+        <item>Protugeuese Premiera Liga</item>
+        <item>Australian A League</item>
+        <item>Scotish Premier League</item>
+        <item>English League 1</item>
+    </string-array>
+
+    <array name="array_league_image">
+        <item>@drawable/img_english_premier_league</item>
+        <item>@drawable/img_french_ligue_one</item>
+        <item>@drawable/img_german_bundesliga</item>
+        <item>@drawable/img_italian_serie_a</item>
+        <item>@drawable/img_spanish_la_liga</item>
+        <item>@drawable/img_american_mayor_league</item>
+        <item>@drawable/img_portugeuese_premiera_liga</item>
+        <item>@drawable/img_australian_a_league</item>
+        <item>@drawable/img_scotish_premier_league</item>
+        <item>@drawable/img_english_league_one</item>
+    </array>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_league"
+            android:icon="@drawable/ic_league_black_24dp"
+            android:title="@string/title_nav_league"/>
+
+    <item
+            android:id="@+id/navigation_favorite"
+            android:icon="@drawable/ic_added_to_favorites_white_24dp"
+            android:title="@string/title_nav_favorite"/>
+
+    <item
+            android:id="@+id/navigation_about"
+            android:icon="@drawable/ic_about_white_24dp"
+            android:title="@string/title_nav_about"/>
+
+</menu>

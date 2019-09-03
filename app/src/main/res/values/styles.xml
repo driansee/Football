@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <!-- Theme without ActionBar shadow (inherits main theme) -->
+    <style name="MyNoActionBarShadowTheme" parent="AppTheme">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Theme without ActionBar & StatusBar Transparent (inherits main theme) -->
+    <style name="MyNoActionBarTheme" parent="AppTheme">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+</resources>
